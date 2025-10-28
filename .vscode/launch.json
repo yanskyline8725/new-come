@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Project/C/new-come",
-      "program": "d:/Project/C/new-come/build/Debug/outDebug",
+      "cwd": "d:/Project/C/new-come/test_try/homework_2025_9_10_start",
+      "program": "d:/Project/C/new-come/test_try/homework_2025_9_10_start/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
