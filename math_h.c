@@ -59,3 +59,5 @@ tan(x)	返回 x 的正切值（x 以弧度计）。
 tanh(x)	返回 x 的双曲正切值。
 tgamma(x)	返回 x 处 gamma 函数的值。
 trunc(x)	返回 x 的整数部分。*/
+//这是math.h的头文件说明
+ 
